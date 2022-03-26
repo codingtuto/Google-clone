@@ -25,7 +25,7 @@ export default function PaginationButtons() {
         href={`/search?term=${router.query.term}&start=${startIndex + 10}`}
       >
         <div className="searchPageBtn">
-          <p>Next</p>
+          <p>Suivant</p>
           <ChevronRightIcon className="h-5" />
         </div>
       </Link>
