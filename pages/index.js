@@ -42,7 +42,7 @@ export default function Home() {
           {/* Left */}
           <div className="flex space-x-4 items-center">
             <p className="link">A propos</p>
-            <p className="link">Store</p>
+            <p className="link">Boutique</p>
           </div>
           {/* Right */}
           <div className="flex space-x-4 items-center">
@@ -75,7 +75,7 @@ export default function Home() {
 
           <div className="flex flex-row space-y-0 w-[90%] justify-center mt-8 space-x-3 sm:space-x-4">
             <button type="submit" onClick={search} className="btn">
-              Google Search
+              Recherchez
             </button>
             <button onClick={search} className="btn">
               J&apos;ai de la chance
