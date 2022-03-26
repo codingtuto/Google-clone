@@ -23,7 +23,7 @@ export default function HeaderOptions() {
       </div>
       {/* Right */}
       <div className="hidden space-x-4  sm:inline-flex">
-        <p className="link">Settings</p>
+        <p className="link">Paramétres</p>
         <p className="link">Outils</p>
       </div>
     </div>
