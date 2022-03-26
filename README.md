@@ -27,7 +27,7 @@ C'est le clone de Google où vous pouvez rechercher n'importe quoi et il affiche
 
 ## Démonstration
 
-[Cliquer ici pour voir le site](https://next-gooogle.vercel.app/)
+[Cliquer ici pour voir le site](https://google-clone-ten-alpha.vercel.app/)
 
 
 
